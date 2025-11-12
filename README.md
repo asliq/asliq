@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Asliq!
 
-💡 Mobil ve web teknolojileri üzerine çalışan bir full-stack yazılım geliştiricisiyim.  
-React, Node.js, TypeScript ve Python başta olmak üzere modern teknolojilerle projeler geliştiriyorum.  
+💡 Mobil ve web teknolojileri üzerine çalışan bir yazılım geliştiricisiyim.  
+JavaScript,React Native,React, Node.js, TypeScript ve Python başta olmak üzere modern teknolojilerle projeler geliştiriyorum.  
 Amacım; sade, ölçeklenebilir ve kullanıcı dostu uygulamalar üretmek. 🚀
 
 ---
