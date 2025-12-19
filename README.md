@@ -1,8 +1,7 @@
-# 👋 Merhaba, ben Asliq!
+Hi, I'm Asli!
 
-💡 Mobil ve web teknolojileri üzerine çalışan bir yazılım geliştiricisiyim.  
-JavaScript,React Native,React, Node.js, TypeScript ve Python başta olmak üzere modern teknolojilerle projeler geliştiriyorum.  
-Amacım; sade, ölçeklenebilir ve kullanıcı dostu uygulamalar üretmek. 🚀
+I'm a software developer working on mobile and web technologies.  
+I build projects using modern technologies, mainly JavaScript, React Native, React, Node.js, and TypeScript.
 
 ---
 
@@ -27,6 +26,3 @@ Amacım; sade, ölçeklenebilir ve kullanıcı dostu uygulamalar üretmek. 🚀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asliq&layout=compact&theme=radical)
 
 ---
-
-### 🌟 Küçük Not
-> “Kod, dünyayı değiştirecek araçlardan biridir — yeter ki onu doğru yaz.” ✨
