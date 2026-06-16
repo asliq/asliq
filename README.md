@@ -4,7 +4,7 @@ I'm a software developer working on mobile and web technologies.
 I build projects using modern technologies, mainly JavaScript, React Native, React, Node.js, and TypeScript.
 
 How to reach me: ae@asliesen.com
-Website: asliesen.com
+Website: https://asliesen.com/
 
 ### 🧠 Bildiğim Diller ve Teknolojiler
 
